@@ -73,7 +73,6 @@ li {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    top:0;
 }
 
 /*
@@ -130,16 +129,4 @@ li {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-#benefit-lead {
-}
-#benefit-brand {
-}
-#benefit-cost {
-}
-#search-engine-optimization {   
-}
-#online-reputation-management {    
-}
-#social-media-marketing {   
 }
