@@ -57,7 +57,7 @@ h4 {
     font-size: 20px;
 }
 
-/*Typography*/
+/*Main section typography*/
 
 h2 {
     margin-bottom: 20px;
@@ -105,7 +105,7 @@ h3 {
     margin-left: 20px;
 }
 
-.content article {
+.content section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -126,7 +126,7 @@ h3 {
     height: 100%;
     background-color: #2589bd;
 }
-.benefits article {
+.benefits section {
     margin-bottom: 32px;
 }
 .benefits img {
